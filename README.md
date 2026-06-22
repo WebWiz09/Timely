@@ -1,6 +1,6 @@
 # Timely
 
-Highlight any text on the web — a message, an email, an article — and Timely reads it, understands the intent, and schedules it directly to your Google Calendar, Tasks, or Gmail. No app switching, no retyping. You stay in the conversation you're already in.
+Highlight any text on the web  a message, an email, an article and Timely reads it, understands the intent, and schedules it directly to your Google Calendar, Tasks, or Gmail. No app switching, no retyping. You stay in the conversation you're already in.
 
 Built for the USAII Global AI Hackathon 2026 — Undergraduate Track, "Productivity: Build the Second Brain for Real Life."
 
@@ -74,4 +74,4 @@ python tm.py
 
 ## Responsible AI
 
-Timely never monitors tabs or messages passively — it only ever reads a conversation the moment a user explicitly highlights it and clicks. Every action is staged and shown to the user before execution; nothing is created, sent, or modified on a real Google account without explicit confirmation.
+Timely never monitors tabs or messages passively it only ever reads a conversation the moment a user explicitly highlights it and clicks. Every action is staged and shown to the user before execution; nothing is created, sent, or modified on a real Google account without explicit confirmation.
